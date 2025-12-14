@@ -85,11 +85,12 @@ Atualmente estou no terceiro semeste de Análise e Desenvolvimento de sistemas n
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
 
+<br/>
+<br/>
+
 ---
 
-<br/>
-<br/>
-## O que estou aprontando
+##O que estou aprontando
 <p>
   <img
     align="left"
