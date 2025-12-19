@@ -101,7 +101,7 @@ Atualmente estou no terceiro semeste de Análise e Desenvolvimento de sistemas n
     /> -->
   
   <img
-    align="left"
+    align="center"
     alt="Github stats"
     height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjpxt&theme=dracula&layout=compact&custom_title=Tecnologias&langs-count=9"
